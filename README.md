@@ -11,9 +11,10 @@ A light hearted quiz that lets the user explore their personality types based on
 
 ## 3. Activist Toolkit Assignment ##
 A webpage initative that is designed to support both humans and animals. It connects people experiencing mental health challenges with shelter animals in need of care. It includes:
-~ A multi-page layout with a navigation bar
-~ Visual stats and informative sections
-~ A quiz to asses readiness for pet adoption
-~ Two hidden easter egg messages
+
+- A multi-page layout with a navigation bar
+- Visual stats and informative sections
+- A quiz to asses readiness for pet adoption
+- Two hidden easter egg messages
 
 
